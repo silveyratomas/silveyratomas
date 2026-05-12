@@ -98,7 +98,7 @@ Funciones principales:
   <a href="mailto:silveyramattostomas@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/silveyratomas/">
+  <a href="[https://www.linkedin.com/in/silveyratomas/](https://www.linkedin.com/in/tom%C3%A1s-agust%C3%ADn-silveyra-mattos-656217281/)">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
