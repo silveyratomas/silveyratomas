@@ -92,13 +92,13 @@ Funciones principales:
 ## Contacto
 
 <p>
-  <a href="https://github.com/TU_USUARIO">
+  <a href="https://github.com/silveyratomas">
     <img src="https://img.shields.io/badge/GitHub-TU_USUARIO-181717?style=for-the-badge&logo=github">
   </a>
-  <a href="mailto:TU_EMAIL">
+  <a href="mailto:silveyramattostomas@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN/">
+  <a href="https://www.linkedin.com/in/silveyratomas/">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
