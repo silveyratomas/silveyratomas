@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Silveyra Tomás 👋</h1>
+<h1 align="center">Hola, soy Silveyra Tomás </h1>
 
 <p align="center">
   Estudiante de Ingeniería en Sistemas · Desarrollador de software · Construyendo productos reales
@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 Sobre mí
+## Sobre mí
 
 Soy estudiante de **Ingeniería en Sistemas** y actualmente estoy desarrollando **EmpreAssist**, un proyecto enfocado en la gestión de pequeños negocios que venden productos.
 
@@ -18,7 +18,7 @@ Me interesa construir software real, profesional y escalable, combinando desarro
 
 ---
 
-## 🛠 Tecnologías
+## Tecnologías
 
 ### Lenguajes
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -46,7 +46,7 @@ Me interesa construir software real, profesional y escalable, combinando desarro
 
 ---
 
-## 📌 Proyecto destacado
+## Proyecto destacado
 
 ### EmpreAssist
 Plataforma SaaS orientada a dueños de pequeños negocios que venden productos.
@@ -70,7 +70,7 @@ Funciones principales:
 
 ---
 
-## 📊 Estadísticas
+## Estadísticas
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -79,7 +79,7 @@ Funciones principales:
 
 ---
 
-## 📚 Actualmente enfocado en
+## Actualmente enfocado en
 
 - desarrollo de productos SaaS
 - arquitectura de sistemas escalables
@@ -89,7 +89,7 @@ Funciones principales:
 
 ---
 
-## 📫 Contacto
+## Contacto
 
 <p>
   <a href="https://github.com/TU_USUARIO">
