@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hola, soy Silveyra Tomás 👋</h1>
 
 <p align="center">
