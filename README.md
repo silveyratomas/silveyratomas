@@ -93,7 +93,7 @@ Funciones principales:
 
 <p>
   <a href="https://github.com/silveyratomas">
-    <img src="https://img.shields.io/badge/GitHub-TU_USUARIO-181717?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-silveyratomas-181717?style=for-the-badge&logo=github">
   </a>
   <a href="mailto:silveyramattostomas@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white">
